@@ -10,4 +10,8 @@ Using the Arduino AtTiny Chip we have manipulated the blink machenism with help 
 <li>Plug in the AtTiny Chip in your Raspbery Pi</li>
 </oll>
 
-<h3>Woalah Magic</h3?
+<h3>Woalah Magic</h3><br>
+
+<h3>Use Pinout Given below for Raspberypi 4</h3>
+
+<img src="https://www.raspberrypi.org/documentation/usage/gpio/images/GPIO-Pinout-Diagram-2.png">
