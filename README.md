@@ -6,7 +6,7 @@ Using the Arduino AtTiny Chip we have manipulated the blink machenism with help 
 <ol>
 <li>Place Example codes on Your Raspbery pi desktop</li>
 <li>Connect GPIO pins to their relevant port with LED</li>
-<li>Burn Digistump with the Manipulation Code</li>
+<li>Burn AtTiny with the Manipulation Code</li>
 <li>Plug in the AtTiny Chip in your Raspbery Pi</li>
 </oll>
 
