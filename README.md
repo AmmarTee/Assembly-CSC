@@ -14,4 +14,4 @@ Using the Arduino AtTiny Chip we have manipulated the blink machenism with help 
 
 <h3>Use Pinout Given below for Raspberypi 4</h3>
 
-!Pinout Diagram(https://github.com/AmmarTee/Assembly-CSC/blob/main/image.png?raw=true)
+![Pinout](https://www.raspberrypi.org/documentation/usage/gpio/images/GPIO-Pinout-Diagram-2.png)
